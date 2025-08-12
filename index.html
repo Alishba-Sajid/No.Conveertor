@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Number Conversion</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+  <div class="card" role="main">
+    <div class="flex-between">
+      <div>
+        <h1>Number Conversion </h1>
+        <p class="lead">Convert a number to English words or to a dollar amount using the public Number Conversion SOAP API.</p>
+      </div>
+    </div>
+
+    <div style="margin-top:12px;">
+      <div class="row">
+        <input id="numInput" type="text" placeholder="Enter a number (e.g. 12345 or 123.45)" />
+        <button id="toWordsBtn">To Words</button>
+        <button id="toDollarsBtn" class="secondary">To Dollars</button>
+      </div>
+
+      <div class="result" id="result">Result will appear here.</div>
+
+      <div class="note">
+        <strong>Proxy:</strong> This demo uses a public CORS proxy (for quick testing).
+      </div>
+    </div>
+  </div>
+
+  <script src="./script.js"></script>
+
+</body>
+</html>
