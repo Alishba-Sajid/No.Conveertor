@@ -29,6 +29,7 @@ All processing happens in the browser using JavaScript, with a CORS proxy to byp
 ---
 
 ## 📂 Project Structure
+
 📦 number-conversion
 ├── index.html # Main HTML file
 ├── style.css # Styling
