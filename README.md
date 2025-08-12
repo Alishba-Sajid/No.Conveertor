@@ -61,6 +61,8 @@ Open in browser
 Open index.html directly in your browser.
 Convert a number
 Enter a number in the input field (e.g., 12345 or 123.45)
+Click "To Words" or "To Dollars"
+
 
 🖼 Preview
 ![App Preview](./images/Main.png)
@@ -70,6 +72,3 @@ Enter a number in the input field (e.g., 12345 or 123.45)
 
 
 
-Click "To Words" or "To Dollars"
-
-🖼 Preview
